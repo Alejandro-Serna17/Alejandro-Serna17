@@ -20,6 +20,10 @@ I'm currently a third year student at NJIT majoring in Computer Science with a m
     <td>Python</td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>Bash</td>
+    <td>MongoDB</td>
+  </tr>
 </table>
 
 ## 📱 Contact
