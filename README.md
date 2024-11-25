@@ -1,6 +1,6 @@
 # 👋 Hi, My name is Alejandro Serna
 ## 💠 About Me
-I'm currently a third year student at NJIT majoring in Computer Science with a minor in Information Technology
+I'm currently a junior at NJIT majoring in Computer Science with a minor in Information Technology
 
 ## ⚡ Skills
 <table>
@@ -30,6 +30,7 @@ I'm currently a third year student at NJIT majoring in Computer Science with a m
 Feel free to contact me through email or LinkedIn below!
 - [email](mailto:aserna17@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/aserna17)
+- [Personal Website](https://alejandrocodes.dev)
 
 ## 😃 Fun Facts
 I love watching soccer, working on cars and cybersecurity!
