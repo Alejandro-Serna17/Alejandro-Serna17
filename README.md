@@ -31,6 +31,7 @@ Feel free to contact me through email or LinkedIn below!
 - [email](mailto:aserna17@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/aserna17)
 - [Personal Website](https://alejandrocodes.dev)
+- [LeetCode](https://leetcode.com/u/alejandro-serna17/)
 
 ## 😃 Fun Facts
 I love watching soccer, working on cars and cybersecurity!
