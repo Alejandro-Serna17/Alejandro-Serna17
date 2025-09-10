@@ -1,6 +1,6 @@
 # 👋 Hi, My name is Alejandro Serna
 ## 💠 About Me
-I'm currently a junior at NJIT majoring in Computer Science with a minor in Information Technology
+I'm currently a Senior at NJIT majoring in Computer Science with a minor in Information Technology
 
 ## ⚡ Skills
 <table>
@@ -24,6 +24,10 @@ I'm currently a junior at NJIT majoring in Computer Science with a minor in Info
     <td>Bash</td>
     <td>MongoDB</td>
   </tr>
+  <tr>
+    <td>Dart</td>
+    <td>AWS</td>
+  </tr>
 </table>
 
 ## 📱 Contact
@@ -34,4 +38,4 @@ Feel free to contact me through email or LinkedIn below!
 - [LeetCode](https://leetcode.com/u/alejandro-serna17/)
 
 ## 😃 Fun Facts
-I love watching soccer, working on cars and cybersecurity!
+I love watching soccer, working on cars, and solving problems with code!
