@@ -1,41 +1,46 @@
-# 👋 Hi, My name is Alejandro Serna
-## 💠 About Me
-I'm currently a Senior at NJIT majoring in Computer Science with a minor in Information Technology
+<h1><img src="https://alejandrocodes.dev/images/hi.gif" width="30"> Hey there, I'm Alejandro Serna</h1>
 
-## ⚡ Skills
-<table>
-  <tr>
-    <td>Java</td>
-    <td>HTML</td>
-  </tr>
-  <tr>
-    <td>C++</td>
-    <td>CSS</td>
-  </tr>
-  <tr>
-    <td>C</td>
-    <td>PHP</td>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>JavaScript</td>
-  </tr>
-  <tr>
-    <td>Bash</td>
-    <td>MongoDB</td>
-  </tr>
-  <tr>
-    <td>Dart</td>
-    <td>AWS</td>
-  </tr>
-</table>
+---
 
-## 📱 Contact
-Feel free to contact me through email or LinkedIn below!
-- [email](mailto:aserna17@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/aserna17)
-- [Personal Website](https://alejandrocodes.dev)
-- [LeetCode](https://leetcode.com/u/alejandro-serna17/)
+## 💠 About Me  
+🎓 Senior at **NJIT** studying **Computer Science** (Minor in IT)  
+💻 Passionate about **full-stack development**, **mobile apps**, and **cloud technologies**  
+🚀 Currently building apps in **Flutter**, **Node.js**, and **AWS**  
 
-## 😃 Fun Facts
-I love watching soccer, working on cars, and solving problems with code!
+---
+
+## ⚡ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,dart,js,php,html,css,bash,mongodb,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alejandro-Serna17&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-xi-opal-16.vercel.app/api/top-langs/?username=Alejandro-Serna17&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 📱 Connect with Me  
+
+- 📧 <a href="mailto:aserna17@outlook.com" target="_blank">Email</a>  
+- 💼 <a href="https://www.linkedin.com/in/aserna17" target="_blank">LinkedIn</a>  
+- 🌐 <a href="https://alejandrocodes.dev" target="_blank">Personal Website</a>  
+- 🧩 <a href="https://leetcode.com/u/alejandro-serna17/" target="_blank">LeetCode</a>  
+ 
+
+---
+
+## 😃 Fun Facts  
+
+⚽ I enjoy watching soccer!  
+🔧 I work on cars during my free time  
+🧠 I love solving problems with code  
+
+---
+<p align="center"> 🤝 Let’s connect — I’m always open to collaborations and opportunities! </p>
