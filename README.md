@@ -20,8 +20,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Alejandro-Serna17&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats-xi-opal-16.vercel.app/api/top-langs/?username=Alejandro-Serna17&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alejandro-Serna17&theme=tokyonight&hide_border=true&cache_seconds=8640" height="165"/>
+  <img src="https://github-readme-stats-xi-opal-16.vercel.app/api/top-langs/?username=Alejandro-Serna17&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=8640" height="165"/>
 </p>
 
 ---
